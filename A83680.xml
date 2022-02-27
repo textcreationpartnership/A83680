@@ -1,0 +1,238 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Commons of England assembled in Parliament, expressing their reasons for the adnulling and vacating of these ensuing votes. 15 Januarii, 1648. / Ordered by the Commons assembled in Parliament, that this declaration and votes be forthwith printed and published. H: Scobel, Cler. Parl. D. Com.</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83680</idno>
+            <idno type="STC">Wing E2560</idno>
+            <idno type="STC">Thomason E538_23</idno>
+            <idno type="STC">ESTC R206053</idno>
+            <idno type="EEBO-CITATION">99865245</idno>
+            <idno type="PROQUEST">99865245</idno>
+            <idno type="VID">117484</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83680)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117484)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 83:E538[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Commons of England assembled in Parliament, expressing their reasons for the adnulling and vacating of these ensuing votes. 15 Januarii, 1648. / Ordered by the Commons assembled in Parliament, that this declaration and votes be forthwith printed and published. H: Scobel, Cler. Parl. D. Com.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husband, printer to the Honourable House of Commons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Jan. 18. 1648 [i.e. 1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Rules and pracitces --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117484:1"/>
+            <pb facs="tcp:117484:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF THE COMMONS OF <hi>ENGLAND</hi> Aſſembled in PARLIAMENT, Expreſsing their REASONS FOR The Adnulling and Vacating of theſe ENSUING VOTES.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>15 Januarii,
+1648.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Commons aſſembled in Parliament, That this <hi>Declaration</hi> and <hi>Votes</hi> be forthwith printed and publiſhed.</p>
+                        <closer>
+                           <signed>H: Scobel, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Huſband,</hi> Printer to the Ho<g ref="char:EOLhyphen"/>norable Houſe of Commons, <hi>Jan.</hi> 18. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <head>
+            <pb facs="tcp:117484:2"/>
+            <pb n="3" facs="tcp:117484:2"/>A Declaration of the Commons of England aſſembled in Parliament, expreſſing the Reaſons of theſe enſuing Reſolutions: <hi>viz.</hi>
+         </head>
+         <div type="resolutions">
+            <div type="day">
+               <head>
+                  <date>Die Martis, 12 Decembr. 1648.</date>
+               </head>
+               <p>
+                  <hi>Reſolved, &amp;c.</hi> 
+                  <seg rend="decorInit">T</seg>Hat the Vote of the 8 of
+<hi>June,</hi> 1648. for the Re<g ref="char:EOLhyphen"/>voking of the Orders of the 7 of <hi>Sept.</hi> the 9 of <hi>Sept.</hi> and the 27 of <hi>Jan.</hi> 1647. for diſabling Commiſſary <hi>Lionel Copley, Denzil Hollis</hi> 
+                  <abbr>Eſq</abbr> Sir
+<hi>John Clot<g ref="char:EOLhyphen"/>worthy,</hi> Col: <hi>Edward Maſſey,</hi> Mr. <hi>Walter Long,</hi> and others, from being Members of this Houſe, was of a dangerous conſequence, and tending to the deſtruction of the Juſtice and Peace of this Kingdom, and is hereby Repealed.</p>
+               <p>
+                  <hi>Reſolved, &amp;c.</hi> That the Vote of 30 <hi>Junii,</hi>
+1648. whereby this Houſe did concur with the Lords, that for opening a way towards a Treaty with his Majeſty for a ſafe Peace, That the Votes of the 3 of January, 1647. Forbidding all Addreſſes to be made to or from the King, be taken off, was highly diſhonorable to the proceedings of Par<g ref="char:EOLhyphen"/>liament, and apparently deſtructive to the good of the Kingdom.</p>
+            </div>
+            <div type="day">
+               <head>
+                  <date>Die Mercurii, 13 Decembr. 1648.</date>
+               </head>
+               <opener>VVHereas the 17 of Auguſt, 1648. this Houſe did con<g ref="char:EOLhyphen"/>cur with the Lords, That for opening a way to<g ref="char:EOLhyphen"/>wards a Treaty with his Majeſty for a ſafe and well-grounded Peace, theſe Votes following ſhould be, and were revoked, and taken off <hi>(viz)</hi>
+               </opener>
+               <p n="1">1. <hi>Reſolved,</hi> That the Lords and Commons do Declare, That they will make no further Addreſſes or Application to the King.</p>
+               <p n="2">2. <hi>Reſolved,</hi> By the Lords and Commons aſſembled in Par<g ref="char:EOLhyphen"/>liament, That no Application or Addreſs be made to the King, by any perſon whatſoever, without the leave of both Houſes.</p>
+               <p n="3">3. <hi>Reſolved,</hi> By the Lords and Commons aſſembled in Par<g ref="char:EOLhyphen"/>liament,<pb n="4" facs="tcp:117484:3"/>That the perſon or perſons that ſhall make breach of this Order, ſhall incur the penalty of high Treafon.</p>
+               <p>
+                  <hi>Reſolved,</hi> That the Lords and Commons do Declare, That they will receive no more any Meſſage from the King; and do enjoyn, That no perſon whatſoever do preſume to receive; or bring any Meſſage from the King to both or either of the Houſes of Parliament, or to any other perſon.</p>
+               <p>
+                  <hi>Reſolved, &amp;c.</hi> That that Vote for Revocation of the ſaid Votes, was highly diſhonorable to the proceedings of Parliament, and apparently deſtructive to the good of the Kingdom.</p>
+               <p>
+                  <hi>Reſolved, &amp;c.</hi> That the Vote of 28 Julii, 1648. That a Treats be had in the Iſle of Wight with the King in Perſon, by a Com<g ref="char:EOLhyphen"/>mittee appointed by both Houſes, upon the Propoſitions pre<g ref="char:EOLhyphen"/>ſented to him at Hampton-Court, was highly diſhonorable to the proceedings of Parliament, and apparently deſtructive to the good of the Kingdom.</p>
+               <p>
+                  <hi>Reſolved, &amp;c.</hi> That the ſeveral Votes of 10 November, 1648. concerning the baniſhment of <hi>George</hi> Lord
+<hi>Goring,</hi> the Earl of <hi>Holland,</hi> the Lord <hi>Capel,</hi> Sir
+<hi>Henry Lingen, Henry Haſtings</hi> 
+                  <abbr>Eſq</abbr> now call'd the Lord
+<hi>Loughbrough,</hi> Major General <hi>Row<g ref="char:EOLhyphen"/>land Laughorn,</hi> and Sir
+<hi>John Owen,</hi> are destructive to the Peace and quiet of the Kingdom, and derogatory to the Juſtice of the Kingdom, and are hereby revoked and made Null.</p>
+               <p>
+                  <hi>Reſolved, &amp;c.</hi> That the Vote of the 10 of November,
+1648. That <hi>James</hi> Earl of <hi>Cambridge</hi> be fined the ſum of
+100000 <abbr>l.</abbr> and that he be kept cloſe Priſoner, until he make payment of the ſaid fine, be and is hereby revoked, and he left to Juſtice.</p>
+               <p>
+                  <hi>Reſolved, &amp;c.</hi> That the Vote of the 2 of Auguſt,
+1648. That the Commiſſioners intended to be ſent unto his Majeſty to Treat with him, ſhall have power to Treat with his Majeſty in the Iſle of Wight, upon ſuch Propoſitions as ſhall be offered by him, was deſtructive to the Peace of the Kingdom, and is hereby repealed and made Null and void.</p>
+               <p>
+                  <hi>Reſolved, &amp;c.</hi> That the Vote of 5 Decembr. 1648. That the Anſwers of the King to the Propoſitions of both Houſes, are a ground for the Houſe to proceed upon for the ſettlement of the Peace of the Kingdom, is highly diſhonorable to the Parliament, and destructive to the Peace of the Kingdom, and tending to the breach of the Publique Faith of the Kingdom.</p>
+            </div>
+         </div>
+         <div type="text">
+            <pb n="5" facs="tcp:117484:3"/>
+            <head>The <hi>Declaration</hi> upon the precedent
+<hi>Votes.</hi>
+            </head>
+            <p>THe greateſt ſervice which a Parliament can do to a King, is to let Him underſtand the diſorders of His, State, that by wiſdom they may be a<g ref="char:EOLhyphen"/>mended: For as every diſeaſe ends, either by death or curing; ſo do diſorders (which are the diſeaſes of a State) either end with the Subverſion of that State, or elſe by a Univerſal Reformation.</p>
+            <p>Upon ſerious conſideration whereof, and to exo<g ref="char:EOLhyphen"/>nerate the people of this Land from the ſundry exorbi<g ref="char:EOLhyphen"/>tant Oppreſſions, daily multiplyed upon them, which threatned the ruine of many private Families, and the publike deſolation of the Kingdom; We the Com<g ref="char:EOLhyphen"/>mons of <hi>England,</hi> in this preſent Parliament aſſembled, Having with much faithfulneſs and affection to the publike Good of this Realm, labored for theſe eight yeers laſt paſt, with many great fears and dangers; un<g ref="char:EOLhyphen"/>dergone many difficulties and calamities, and ſup<g ref="char:EOLhyphen"/>preſſed many diſtempers and diſorders, in oppoſition to a Malignant Party in this Kingdom; who would have unſlaved the bodies and ſouls of the people of this Nation, by the bringing in of Popery, and ſee<g ref="char:EOLhyphen"/>ing up of Tyranny: Both which we have ſo amply manifeſted to the whole world, in our former Decla<g ref="char:EOLhyphen"/>rations, as we judg it needleſs here again to repeat. Yet we cannot be ſo injurious to Truth, as not to re<g ref="char:EOLhyphen"/>member how for the Redreſs of which Abuſes, and for bringing the contrivers thereof to condign puniſhment, We did often make our juſt complaints to the King; Firſt, by many humble Petitions, then by Remonſtran<g ref="char:EOLhyphen"/>ces and Declarations: Which not taking any effect, but juſtice being ſtill denied us, the main obſtructions whereof did conſtantly flow from the Kings immediate<pb n="6" facs="tcp:117484:4"/>Deſign, Which divers ways will moſt evidently ap<g ref="char:EOLhyphen"/>pear, if we do but call to remembrance, how he did not only require the Engliſh Army raiſed by his Com<g ref="char:EOLhyphen"/>mand, in oppoſition of the Scots, to march up againſt the Parliament and the City of <hi>London,</hi> but practiſed with the ſame Scotiſh Army it ſelf to do the ſame; of<g ref="char:EOLhyphen"/>fering to corrupt them, by the donation of the four Northern Counties, and the Plunder of the City of <hi>London.</hi> In the ſecond place, how ſuddenly and unexpectedly he went into <hi>Scotland,</hi> notwithſtanding our earneſt Endeavors and Deſires to the contary. Thirdly, how he countenanced, if not contrived and authorized that horrid Rebellion in <hi>Ireland,</hi> wherein were murthered in the Province of <hi>Ulſter</hi> onely (not to ſpeak of the reſt of that Kindgdom) and that in the ſpace of eight weeks only, above One hundred and for<g ref="char:EOLhyphen"/>ty thouſand Proteſtants, by ſo many varieties of cruel deaths, as all the firſt ten Perſecutions againſt the Pri<g ref="char:EOLhyphen"/>mitive Chriſtians could never parallel. And laſtly, his withdrawing from the Parliament, and ſetting up of his Standard againſt it, The like never before practiſed by the worſt of our Kings; by which means the Regal Power (which was intended for the Weal and Defence of the people) being hereby turned againſt them, ren<g ref="char:EOLhyphen"/>dring thereby <hi>Ireland</hi> (the purchaſe of our Anceſtors) in apparent hazard of being utterly loſt, our Trade by Sea and Land to be decayed, our Eſtates to be waſted, and ſome hundreds of thouſands of our Nation ſlaughtered and maſſacred.</p>
+            <p>We hereupon deſpairing of any good return of Juſtice from the King, did appeal unto the great God of Hea<g ref="char:EOLhyphen"/>ven and Earth for the ſame; who after four years Wars, did give a clear and apparent ſentence on our ſide, by delivering into our hands all the Caſtles,<pb n="7" facs="tcp:117484:4"/>Towns, and Perſons of our Oppoſites, even of the King himſelf, or forcing them to fly the Land, and in Forraign parts to remain as Exiles.</p>
+            <p>And whereas it pleaſed God by theſe his mercies, to put us into ſuch a condition of power, that if we did not make <hi>England</hi> the happieſt Nation in the world; not onely this preſent Age, but all Poſterity would judge, that either we wanted wiſdom to do it, or will to effect it. Yet here again we were encountered with unexpect<g ref="char:EOLhyphen"/>ed difficulties, by the apparent defection of ſome of our own Members, who (not regarding the glory of God, nor good of the Common-wealth, but being carryed away by baſe avarice, and wicked ambition) did labor the bringing in of the King again, with all his faults, without the leaſt repentance or acknowledgment of his former Tranſgreſſions either againſt God, or his People.</p>
+            <p>And having to that purpoſe by many ſubtilties of theirs, improved their Party amongſt us, to a conſidera<g ref="char:EOLhyphen"/>ble number, they endeavored to do that by fraud, which by open force of Arms our greateſt Enemies had ſo often failed in.</p>
+            <p>To which and, finding that nothing but the Army could obſtruct their deſign, it whom they had obſerved more then a bare mercenary Spirit, as having by the extraordinary bleſſing of God finiſhed the War in ſo ſhort a time after their undertaking of it; Manifeſting thereby, That their affections to the publique, exceed<g ref="char:EOLhyphen"/>ed that of their particular employment, doing ſo much ſervice in a few moneths for the Parliament, as if they had plotted to have made themſelves uncapable of ſerving them any longer.</p>
+            <p>Whereupon they firſt attempted, to ſend the great<g ref="char:EOLhyphen"/>eſt part of it into <hi>Ireland;</hi> the Scotiſh Army being at<pb n="8" facs="tcp:117484:5"/>the ſame time poſſeſſed of the four Northern Coun<g ref="char:EOLhyphen"/>ties, the Perſon of the King Himſelf being alſo in their power; the two Keys of this Kingdom,
+<hi>Barwick</hi> and <hi>Carlile,</hi> in their hands; beſides, the Town of
+<hi>Newcaſtle</hi> (being the main and moſt neceſſary ſupport of
+<hi>London,</hi> and the Southern parts for firing) wholly at their de<g ref="char:EOLhyphen"/>votion. All which ſignified nothing elſe, then that we ſhould abandon thoſe of our own Blood and Coun<g ref="char:EOLhyphen"/>trey (who had faithfully and religiouſly ſerved us) to caſt our ſelves into the protection of a Forraign Na<g ref="char:EOLhyphen"/>tion, who had beſides a Forraign Intereſt.</p>
+            <p>But failing in this their firſt attempt, in the ſecond place (after the going home of the Scots) they labor'd to break this Army by Disbanding it, which other<g ref="char:EOLhyphen"/>wiſe (as they feared) would have broken their Deſigns.</p>
+            <p>But that not ſucceeding, their next work was to raiſe the City of <hi>London</hi> in actual arms againſt it: Wherein being likewiſe diſappointed of their expectations, ſome of them for the ſame being charged by us with High Treaſon, and other High Crimes and Miſdemeanors; moſt of them ſo charged, having left the Land, and ſome others for the ſame being impriſoned: The King in the mean time ſhewing no maner of contrition, or giving the leaſt hopes of any good accommodation, after ſeven Addreſſes made unto him in vain.</p>
+            <p>We thereupon judging it not fit, that the obſtinacy of any one man (how great ſoever) ſhould ruine ſo many thouſand good people of this Kingdom, did Vote, no further Addreſſes to be made unto Him (as being a Perſon uncapable of any further Truſt:) But did declare, That we would ſettle the preſent Govern<g ref="char:EOLhyphen"/>ment, in ſuch a way, as might beſt ſtand with the Peace and Happineſs of this Kingdom.</p>
+            <p>And which we had long ſince (by Gods aſſiſt<g ref="char:EOLhyphen"/>ance)
+<pb n="9" facs="tcp:117484:5"/>happily effected; had not a Malignant Party amongſt the Seamen, the like in the Counties of <hi>Eſſex, Surrey, Suſsex,</hi> and the City of <hi>London;</hi> many of which have ſince been in actual Arms againſt us, by their preſsing and urgent Petitioning of the Par<g ref="char:EOLhyphen"/>liament for a Perſonal Treaty with the King at <hi>London,</hi> and to disband the Army; thereby divert<g ref="char:EOLhyphen"/>ed, and fruſtrated, our earneſt and hearty deſires.</p>
+            <p>Which Petitions of theirs, though moſt of them delivered in a tumultuous maner; and all of them, in ſuch a way, as if they were reſolved to admit of no denial; yet were ſo countenanced by a diſaffect<g ref="char:EOLhyphen"/>ed number amongſt us (who in all probability did correſpond with them in their Engagements) as ſome of the Petitioners had thanks given them, after they had manifeſtly broken the Priviledges of Parlia<g ref="char:EOLhyphen"/>ment. Beſides, the Matter being ſo repugnant to all Reaſon, that the granting of it, as the caſe then ſtood (<hi>Wales</hi> being in ſome meaſure revolted, the <hi>Scots</hi> hourly expected to come in, <hi>Kent</hi> and <hi>Eſſex</hi> in arms, and a very conſiderable part of the Navy abandon<g ref="char:EOLhyphen"/>ing of their Truſt) had been at one ſtroke to undo all that ever God had done for the Parliament, and to render all his Mercies vain and fruitleſs.</p>
+            <p>And that we might be the more diverted from ſettling the Peace of this diſtracted Kingdom, the ſaid perſons (taking advantage of the ſundry ingage<g ref="char:EOLhyphen"/>ments the Army was then employed about, and that at once, in divers remote parts of the Realm; and of the abſence of ſundry well-affected Members, acting in their ſeveral reſpective Counties, for the quenching of that flame, which theſe perſons in all likelihood by their artifices had kindled, did by the<pb n="10" facs="tcp:117484:6"/>ſubtilty of many terrifying Arguments, and threat<g ref="char:EOLhyphen"/>ning Petitions (making the world believe, as if there was an impoſſibility to ſettle the Peace of the Kingdom without the King) not onely recal thoſe Votes of <hi>Non Addreſſes to the King</hi> (made upon ſuch and ſo many Reaſons of great weight and high con<g ref="char:EOLhyphen"/>cernment for the good of the people, as unto the leaſt of which they never gave any Anſwer) but did likewiſe recal ſuch Members of this Houſe, as ſtood charged (as aforeſaid) with high Treaſon, and other high Crimes, without Anſwering or giving any ſa<g ref="char:EOLhyphen"/>tisfaction to the leaſt part of their Charge.</p>
+            <p>And notwithſtanding that God by the ſetlement of <hi>Wales,</hi> the miraculous and ſpeedy reducing of <hi>Kent,</hi> the defeat of the Earl of <hi>Holland,</hi> the containing of the major part of the City of
+<hi>London</hi> in their due obedience, the confuſions ariſing in the Revolted Navy, the Rendring of <hi>Colcheſter;</hi> and laſtly, the moſt incomparable Defeat of Duke <hi>Hamilton</hi> and his Army, did manifeſt to Earth, that Heaven was oppoſite and diſpleaſed with thoſe their Councels, and that once more God from above, had given ſen<g ref="char:EOLhyphen"/>tence for the Parliament againſt the King.</p>
+            <p>Yet theſe Members (as if they would reſiſt the will of Heaven, and in deſpite of God himſelf, bring the King home with Honor, Safety and Free<g ref="char:EOLhyphen"/>dom) did notwithſtanding proceed to make ſuch Propoſitions to the King at the Iſle of <hi>Wight,</hi> for a ſafe and well-grounded Peace; as if they had been granted &amp; kept (of which there was no probability) would but have returned the people again to their former ſlavery; foraſmuch as by theſe Propoſitions neither this Parliament, nor any ſucceeding one, was
+<pb n="11" facs="tcp:117484:6"/>put into a capacity of ever being able to make any good Laws, the King being ſtill ſuffered to con<g ref="char:EOLhyphen"/>tinue his Negative Vote, ſo long oppoſed, and ſo ſtrongly Voted and Declared againſt by this Parlia<g ref="char:EOLhyphen"/>ment, thereby leaving ſtill in his power a check to any juſt Deſire of the people.</p>
+            <p>Which Perſonal Treaty thus carryed on, without any one previous Propoſition for the honor of the Treators, or ſecurity of the things treated for (both which were once thought neceſſary by thoſe very men, who now gave way to this) as it could not chuſe but abundantly ſatisfie and delight the diſ<g ref="char:EOLhyphen"/>affected party of the Kingdom; ſo the good and honeſt minded people thereof (who had ventured their lives and fortunes with us in the common cauſe) did apprehend it with much horror, even trembling to conſider, That whereas they expected a happy Peace ſhould have been the price of their blood, and the reward of their labors, a peace thus concluded, would have proved but the beginning of their future miſeries; and did not ſtick to com<g ref="char:EOLhyphen"/>plain, That hereby we had left them in a far worſe eſtate, after all their Victories, then when they un<g ref="char:EOLhyphen"/>dertook the Wars with us in our loweſt condition.</p>
+            <p>Which we cannot condemn them for, when we remember withal, That this Treaty was entertained upon ſuch Propoſitions, as the King himſelf alſo ſhould make; which was formerly held to be ſo de<g ref="char:EOLhyphen"/>ſtructive to any well ſettled peace, as neither the Houſes of Parliament, nor the Commiſſioners for the Kingdom of <hi>Scotland,</hi> did think it fitting to ad<g ref="char:EOLhyphen"/>mit, when he was in his greateſt height of power.</p>
+            <p>Neither can we believe, That any Agreement we<pb n="12" facs="tcp:117484:7"/>could have made with the King in the Iſle of <hi>Wight</hi> (in the condition he was then in) would ever have been obſerved, either by himſelf, or any of his Party. For ſetting aſide the bare name of Honor, Safety and Freedom, which the Treaty did pretend unto, neither the King, nor any of his, did ever hold him in any other condition then that of a Priſoner.</p>
+            <p>For clearing whereof, beſides that in His Meſſage ſent to both Houſes, <hi>October</hi> 2. He propoſeth to have liberty to come to
+<hi>Weſtminſter,</hi> and to be reſtored to a condition of abſolute Freedom and Safety; which can import no other, then that he judged himſelf at that preſent (being in the time of Treaty) to be de<g ref="char:EOLhyphen"/>prived of both. And His Letters to a prime Magi<g ref="char:EOLhyphen"/>ſtrate of the City of <hi>London</hi> declare, That he held himſelf at that time as great a priſoner as ever. And the Prince in his Declaration made at <hi>Goree,</hi> ſayes plainly, That the King in truth is ſtill in priſon; and invites the Earl of <hi>Warwick</hi> to joyn with him to reſcue his Father from his unworthy impriſonment.</p>
+            <p>And ſince inforced Oaths are (in many mens judgments) not neceſſary to be kept, what aſſurance could we have, That He (who ſo often had failed of his promiſes made to us, when he was free, and at his own diſpoſal) would make that good to us, when he came to be re-eſtabliſhed in His Royal Power, which he had obliged himſelf to do, when he was in durance, and a priſoner.</p>
+            <p>And ſince hardly any example can be produced, either Forraign, or Domeſtick, of any Prince once ingaged in a War with His Subjects, that ever kept any Agreement which he made with them, longer then meer neceſſity did compel him thereto: The<pb n="13" facs="tcp:117484:7"/>examples whereof to the contrary, are ſo many and ſo manifeſt; and the late bloody violation of the Peace betwixt the Crown of <hi>Spain,</hi> and thoſe of <hi>Naples,</hi> is ſo freſh in our memories, as we cannot expect any Propoſitions agreed upon at the Iſle of <hi>Wight,</hi> ſhould binde the King more, then the Fun<g ref="char:EOLhyphen"/>damental Laws, and Coronation Oath; beſides, his often Proteſtations, and Ingagements in the Name of a King, and of a Gentleman, which He hath ſo often violated.</p>
+            <p>And if we had disbanded our Army, is there any thing more probable upon earth, then that the King would have raiſed another: Which if he ſhould have done, and we not endevored to do the like, what were that neglect, but an apparent betray<g ref="char:EOLhyphen"/>ing of our Cauſe and Truſt? Giving up that with<g ref="char:EOLhyphen"/>out a ſtroke, which we had acquired and made good by ſo many victories. And if we ſhould have taken up Arms, what were it, but putting of the Realm again into a new Combuſtion? Wherein, whether God would bleſs us as before, ſince we made no better uſe of his former mercies, as it is onely in his Divine Wiſdom to determine, ſo it would be little humane providence or policy in us (if it be not a bold temptation of God) to put it any more to the tryal.</p>
+            <p>And notwithſtanding, that it pleaſed God ſo to harden the Kings heart, that he would not aboliſh Epiſcopacy, but onely ſuſpend it; and conſented, that the Biſhops Lands ſhould be let for a long term onely, the old Rents being ſtill reſerved for their maintenance; whereas we had ſold the ſaid Lands out-right, and the old Rents were all that many had
+<pb n="14" facs="tcp:117484:8"/>bought of the Biſhops Eſtates; yet ſo willing were theſe men to comply with the King, as they were not onely contented that the Buyers (who adven<g ref="char:EOLhyphen"/>tured upon the Publike Faith of the Parliament) ſhould be defrauded of their Bargains (ſome of them wholly, all of them in part) but that Epiſcopacy it ſelf, which they had Covenanted to extirpate, ſhould yet remain in the root; and a more then pro<g ref="char:EOLhyphen"/>bable conjecture, that it might recover it ſelf again.</p>
+            <p>And whereas the King would not conſent to the capital puniſhment of any one Delinquent (there be<g ref="char:EOLhyphen"/>ing onely one offered unto him, namely,
+<hi>David Jenkins</hi> (the reſt being beyond the Seas, and out of our Power) yet contrary to their Covenant, and con<g ref="char:EOLhyphen"/>trary to the main (if not onely) end, of making this War (which was to bring Delinquents to condign puniſhment,) they did in this alſo acquieſce in the Kings Anſwer.</p>
+            <p>Which in plain terms was to decline the cauſe of the people, and to aſſert that of the Kings; betray<g ref="char:EOLhyphen"/>ing thereby our own Cauſe, and juſtifying His, making that good by this onely action, which our greateſt adverſaries have ever conſtantly upbraided us withal; which was, That we had no Juſtice on our ſide, becauſe we durſt never bring any of them to judgment.</p>
+            <p>Which Actions of theirs, being apparently con<g ref="char:EOLhyphen"/>trary to all that which the Parliament had from the beginning of their troubles held out to the People, and which were the onely Motives to induce them to undertake this War; So as by this means Epiſ<g ref="char:EOLhyphen"/>copacy remaining ſtill in the Root, wanting onely a little warmth of fair weather, to make it bud forth<pb n="15" facs="tcp:117484:8"/>again; and in the interim no care taken at all for the conſtant ſettlement of Religion: And on the other ſide, for want of juſtice upon the Capital Offendors, all good men diſcouraged, and even repenting that they had ever undertaken the Cauſe; which would have been by this Agreement ſo vilely and une<g ref="char:EOLhyphen"/>qually ſtated, as if the Kings party ſhould be an hundred times beaten, they muſt be an hundred times indempnified: But on the other ſide, if the Parliaments Party ſhould happen to be at the loſs but once, all the godly people in the Land ſhould have been deſtroyed for the preſent, and the very cauſe of Liberty and Religion it ſelf indangered to be loſt irrecoverably for the future.</p>
+            <p>And whereas God having ſo eminently owned this Cauſe, that the Enemy could never prevail a<g ref="char:EOLhyphen"/>gainſt it, either by open force of Arms, or any ſe<g ref="char:EOLhyphen"/>cret machination of their own deviſing: Hereby, through the treachery of ſome, unto whoſe Truſt the defence thereof was committed, the Cauſe ſhould not onely at this time be utterly loſt, but all Poſte<g ref="char:EOLhyphen"/>rity for ever diſcouraged to take up Arms, or joyn with a Parliament again; Againſt whom if for the King any ſhould get the Victory, all Honors, Profits, and worldly Felicities, would conſequent<g ref="char:EOLhyphen"/>ly offer themſelves to be the reward of their labors; and if they ſhould happen to be overcome, there would be no Tribunal on Earth, whereby to puniſh them, or call them to account for their Actions.</p>
+            <p>Wherefore, unleſs we ſhould deny the goodneſs of our Cauſe, which God hath adjudged on our ſide, by the gracious bleſſings of ſo many ſignal Victories; Unleſs we ſhould betray our Friends,
+<pb n="16" facs="tcp:117484:9"/>who have engaged with us upon our Votes of Non-Addreſſes, to the hazard of their Lives and For<g ref="char:EOLhyphen"/>tunes; Unleſs we ſhould value this one Man, the King, above ſo many Millions of people, whom we repreſent; and prefer his Honor, Safety, and Free<g ref="char:EOLhyphen"/>dom, before the Honor, Safety, and Freedom of the whole Nation; Unleſs we ſhould ſcorn and con<g ref="char:EOLhyphen"/>temn any Peace, which the great God of Heaven and Earth (our aſſured help in our greateſt diſtreſſes) hath given us; and that we muſt relie onely upon ſuch a Peace, which the King (a mortal Man, and our im<g ref="char:EOLhyphen"/>placable Enemy) ſhall allow us; Unleſs we ſhould give our ſelves up to the ſlaughter, and ſuffer our own Members to undermine the Parliament and the Kingdoms Cauſe; Unleſs we ſhould ſtake All which we have, to the Kings Nothing, and Treat with him, who hath not any thing to give us; and after God hath put us in Poſſeſſion of All, and more then we asked, then we muſt Treat with the King, whe<g ref="char:EOLhyphen"/>ther we ſhall have it or no. Laſtly, Unleſs we ſhould value the blood of ſo many Innocents, and the Army of ſo many Martyrs, who have dyed in this Cauſe, leſs then the blood of a few guilty perſons, by what Name or Title ſoever ſtiled, We could do no leſs then repeal thoſe Votes before ſpecified, as being highly repugnant to the glory of God, great<g ref="char:EOLhyphen"/>ly diſhonorable to the proceedings of Parliament, and apparently deſtructive to the good of this King<g ref="char:EOLhyphen"/>dom.</p>
+            <p>Yet we are reſolved (by Gods aſſiſtance) and that ſpeedily, ſo to ſettle the Peace of the Kingdom by the authority of Parliament, in a more happy way, then can be expected from the beſt of Kings.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
